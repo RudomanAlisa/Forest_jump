@@ -156,7 +156,5 @@ label choice1_done:
 
     "Х о р о ш а я  К о н ц о в к а"
 
-#Cука нах
-
 
     return
