@@ -1,5 +1,6 @@
 Designed and implemented custom UI transition scripts using linear interpolation (Lerp) principles for smooth object movement.
 Created a library of reusable animation transforms to standardize visual effects across the application.
+I built the entire logic architecture from scratch, without just copying templates
 
 Forest Jump 🐿️
 Простенькая визуальная новелла, рассказывающая о невероятном приключении белочки в диком тихом лесу.
